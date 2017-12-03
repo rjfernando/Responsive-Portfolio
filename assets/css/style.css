@@ -291,7 +291,8 @@ input[type=submit] {
     }
 
     .img {
-        width: 60%; 
+        width: 50%;
+        height: 25%; 
     }
 
     .aboutme {
@@ -335,6 +336,11 @@ input[type=submit] {
 
     .box {
         min-width: 100%;
+    }
+
+    .img {
+        width: 100%;
+        height: 75%;
     }
     
     .sidebar { 
