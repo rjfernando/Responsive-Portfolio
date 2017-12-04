@@ -49,7 +49,7 @@ h3 {
 #logo {
     float: left;
     width: 300px;
-    height: 90px;
+    height: 100px;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
     font-weight: 700;
@@ -355,7 +355,19 @@ input[type=submit] {
 
     .main-section {
         margin-top: 10%;
-    
     }
 
+    /* #mainheader {
+        position: fixed;
+    } */
 }
+
+@media screen and (max-width: 640px) , (min-width: 300px) {
+
+        nav a {
+            padding: 0px 20px 0px 20px;
+        }
+
+}
+
+    
