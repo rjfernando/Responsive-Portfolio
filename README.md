@@ -10,7 +10,7 @@ Link to Github Pages :  https://rjfernando.github.io/Responsive-Portfolio/
 
 # Build
 
-1. Boostrap
+1. HTML
 2. CSS
 3. Media Queries
 
